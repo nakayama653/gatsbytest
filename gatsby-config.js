@@ -34,7 +34,3 @@ module.exports = {
     },
   ],
 }
-
-module.exports = {
-  plugins: [`gatsby-plugin-image`],
-}
